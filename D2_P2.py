@@ -16,3 +16,4 @@ print('My name is:',n2)
 #WAP to find double of an integer
 #I/P:Enter any integer:2
 #O/P:Double of te no is:4
+print('New line added')
