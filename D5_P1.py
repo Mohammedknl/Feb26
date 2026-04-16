@@ -15,9 +15,9 @@ print('addition of {} and {} is {:.2f}'.format(a,b,c))
 
 #IV Method using Fstring
 d=f"addition of {a} and {b} is {c}"
-e=f"addition of {a} and {b} is {c:.2f}"
+print(f"addition of {a} and {b} is {c:.2f}")
 print(d)
-print(e)
+
 
 
 '''
