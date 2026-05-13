@@ -12,3 +12,4 @@ print(id(s[0]))
 print(s[2:7])
 print(s[2:])
 
+
